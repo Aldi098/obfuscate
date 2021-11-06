@@ -17,7 +17,8 @@ $ pkg install python
 $ pkg install python3
 $ pkg install nano
 $ pkg install git
-$ pip2 install six
+$ pip install six
+$ pip3 install six
 $ git clone https://github.com/Aldi098/obfuscate
 $ cd obfuscate
 $ python enc.py
